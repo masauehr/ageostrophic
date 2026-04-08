@@ -1,0 +1,7 @@
+data/epsw/
+data_epsw/
+data_gsm/
+output/
+__pycache__/
+*.pyc
+.DS_Store
