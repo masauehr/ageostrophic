@@ -1,3 +1,8 @@
+# 認証情報・機密ファイル
+.env
+*.key
+*.pem
+
 data/epsw/
 data_epsw/
 data_gsm/
